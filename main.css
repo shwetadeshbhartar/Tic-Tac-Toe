@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #97aabd;
+    background-color: #42455a;
 }
 table{
     border-collapse: collapse;
@@ -25,10 +25,10 @@ table tr td:hover{
     cursor: pointer;
 }
 .winner{
-    width: 240px;
-    height: 140px;
+    width: 200px;
+    height: 100px;
     margin: 10px auto;
-    font-size: 60px;
+    font-size: 40px;
     text-align: center;
     background-color:green;
 }
@@ -37,7 +37,7 @@ table tr td:hover{
     display: block;
 }
 button{
-    width: 240px;
+    width: 200px;
     height: 100px;
     margin: 10px auto;
     display: block;
